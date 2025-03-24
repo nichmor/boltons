@@ -64,6 +64,7 @@ Learn more about `caching algorithms on Wikipedia
 # TODO: support 0 max_size?
 # JORA CARDAN
 # ANOTHER JORA CARDAN
+# JORA CARDAN 3
 
 
 import heapq
